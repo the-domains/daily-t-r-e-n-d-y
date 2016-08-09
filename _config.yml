@@ -1,4 +1,3 @@
-layout_spectrum: 0.28229645383544266
 typography_spectrum: 0.9194675327744335
 color:
   brandStrength: 0.015591565519571304
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.28229645383544266
 name: Daily T R E N D Y
 title: Fashion & Lifestyle Trends
+description: from fashionistas and techie lovers like you
